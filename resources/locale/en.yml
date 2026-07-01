@@ -1,0 +1,17 @@
+ernestdefoe-armory:
+  forum:
+    nav: Armory
+    arena: Arena
+    log_in_with_battlenet: Sign in with Battle.net
+    item_link_button: Link a WoW item
+    item_search:
+      title: Link a WoW item
+      placeholder: Search items by name…
+      hint: Type an item name to search.
+      none: No items found.
+
+  admin:
+    client_id: Battle.net Client ID
+    client_secret: Battle.net Client Secret
+    client_help: "Create an API client at develop.battle.net/access/clients and set its Redirect URL to https://YOUR-FORUM/auth/battlenet/callback. Then paste the id + secret here."
+    region: Default region
