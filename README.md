@@ -2,24 +2,13 @@
 
 > **Read-only archive of released versions of ernestdefoe/armory.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/armory) or the [upstream repository](https://github.com/ernestdefoe/armory).
 
-**26** versions archived · Latest: [`v0.15.2`](https://github.com/flarchive/ernestdefoe-armory/tree/archive/v0.15.2) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`v0.15.3`](https://github.com/flarchive/ernestdefoe-armory/tree/archive/v0.15.3) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `v0.1.0` | 2026-06-28 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-armory/tree/archive/v0.1.0) |
-| `v0.10.0` | 2026-07-04 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-armory/tree/archive/v0.10.0) |
-| `v0.11.0` | 2026-07-04 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-armory/tree/archive/v0.11.0) |
-| `v0.12.0` | 2026-07-04 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-armory/tree/archive/v0.12.0) |
-| `v0.13.0` | 2026-07-04 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-armory/tree/archive/v0.13.0) |
-| `v0.14.0` | 2026-07-04 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-armory/tree/archive/v0.14.0) |
-| `v0.14.1` | 2026-07-05 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-armory/tree/archive/v0.14.1) |
-| `v0.15.0` | 2026-07-06 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-armory/tree/archive/v0.15.0) |
-| `v0.15.1` | 2026-07-06 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-armory/tree/archive/v0.15.1) |
-| `v0.15.2` | 2026-07-24 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-armory/tree/archive/v0.15.2) |
-
-[View all 26 versions](https://github.com/flarchive/ernestdefoe-armory/tags)
+| — | — | — | — |
 
 Catalog entry: [packages/ernestdefoe-armory.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-armory.json)
 
